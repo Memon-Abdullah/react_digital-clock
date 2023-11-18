@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Header } from './Components/Header';
-import { Time } from './Time';
+import { Time } from './Components/Time';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
